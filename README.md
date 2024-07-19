@@ -5,3 +5,6 @@ Here’s how the Simon game works:
 2) First Level: A color will blink. Click that color to proceed.
 3) Next Levels: For each new level, remember the sequence from the previous level and click the colors in the correct order, adding the new color at the end.
 4) Game Over: If you press the wrong button, the game ends. Have fun testing your memory!
+
+
+https://prxnav2005.github.io/Simon-Game/
